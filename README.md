@@ -21,3 +21,4 @@ Por favor sigue las siguientes instrucciones al modificar el repositorio:
   correspondiente en tu archivo `.tex`, pero por favor que sí sea tu nombre
   completo.
 * Diviértete al trabajar en tu archivo.
+xx
